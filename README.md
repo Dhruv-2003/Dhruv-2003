@@ -45,13 +45,21 @@
 </p>
 
 <h3 align="left">Tools & IDE </h3>
-<p align="left"><a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="50" height="40"/> </a>  <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="truffle" width="40" height="40"/> </a><a href="https://trufflesuite.com/ganache/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt="truffle" width="40" height="40"/> </a>
-<a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/420/1*3jj5tQildSIyhl-RO6RLlA.png" alt="hardhat" width="40" height="40"/> </a>  
+<p align="left"><a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="50" height="40"/> </a>  <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="truffle" width="40" height="40"/> </a><a href="https://trufflesuite.com/ganache/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt="ganache" width="40" height="40"/> </a>
+<a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/420/1*3jj5tQildSIyhl-RO6RLlA.png" alt="remix" width="40" height="40"/> </a>  <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png" alt="metmask" width="40" height="40"/> </a>
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://nonodename.com/post/unittestingmocha/mocha-chai.png" alt="mocha" width="80" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Protocols worked with</h3>
-<p align="left">
+<h3 align="left">Blockchains & SDKs </h3>
+<p align="left"> <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" alt="ethereum" width="30" height="40"/> </a>
+<a href="https://polygon.technology/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/polygon-matic-logo.png" alt="polygon" width="40" height="40"/> </a>
+<a href="https://ipfs.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="IPFS" width="40" height="40"/> </a>
+<a href="https://www.openzeppelin.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/openzeppelin-logo-2909FE553F-seeklogo.com.png" alt="OpenZepplin" width="40" height="40"/> </a>
+<a href="https://uniswap.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Uniswap_Logo.svg/1026px-Uniswap_Logo.svg.png" alt="Uniswap" width="40" height="40"/> </a>
+<a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="40" height="40"/> </a>
+<a href="https://www.alchemy.com/" target="_blank" rel="noreferrer"> <img src="https://en.bitcoinwiki.org/upload/en/images/a/a6/Alchemy.png" alt="Alchemy" width="40" height="40"/> </a>
+<a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"> <img src="https://2652102303-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/spaces%2F-MSx5Odp8g1EfjXW79Rq%2Favatar-1613562923821.png?generation=1613562924233254&alt=media" alt="Graph" width="40" height="40"/> </a>
+<a href="https://aave.com/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/aave-aave-logo.png" alt="Aave" width="40" height="40"/> </a>
 </p>
 
 
