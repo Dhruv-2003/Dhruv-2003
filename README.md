@@ -40,6 +40,7 @@
 <a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="solidity" width="30" height="40"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png?w=360" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a></p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dhruv-2003&show_icons=true&locale=en" alt="dhruv-2003" /></p>
 <h3 align="left">FrameWorks </h3>
 <p align="left">
 <a href="https://docs.ethers.io/v5/" target="_blank" rel="noreferrer"> <img src="https://docs.moonbeam.network/images/index-pages/builders/build/eth-api/libraries/ethersjs.png" alt="tailwind" width="40" height="40"/> </a> 
@@ -53,6 +54,9 @@
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://nonodename.com/post/unittestingmocha/mocha-chai.png" alt="mocha" width="80" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-2003&" alt="dhruv-2003" /></p>
+
+
 <h3 align="left">Blockchains & SDKs </h3>
 <p align="left"> <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" alt="ethereum" width="30" height="40"/> </a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/polygon-matic-logo.png" alt="polygon" width="40" height="40"/> </a>
@@ -64,12 +68,6 @@
 <a href="https://thegraph.com/en/" target="_blank" rel="noreferrer"> <img src="https://2652102303-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/spaces%2F-MSx5Odp8g1EfjXW79Rq%2Favatar-1613562923821.png?generation=1613562924233254&alt=media" alt="Graph" width="40" height="40"/> </a>
 <a href="https://aave.com/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/aave-aave-logo.png" alt="Aave" width="40" height="40"/> </a>
 </p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv-2003&show_icons=true&locale=en" alt="dhruv-2003" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-2003&" alt="dhruv-2003" /></p>
 
 
 ### Blogs posts
