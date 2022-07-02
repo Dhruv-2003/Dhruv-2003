@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Ethers.js ,React.js**
 
-- 👯 I’m looking to collaborate on [CricDAO ,A DAO for cricket lovers](https://github.com/Dhruv-2003/CRICDAO)
+- 👯 I’m looking to collaborate on [CricDAO ,A DAO for cricket fans](https://github.com/Dhruv-2003/CRICDAO)
 
 - 📝 I regularly write articles on [My Hashnode Blog](https://dhruvagarwal.hashnode.dev/)
 
