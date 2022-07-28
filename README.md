@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/0xdhruva" target="blank"><img src="https://img.shields.io/twitter/follow/0xdhruva?logo=twitter&style=for-the-badge" alt="0xdhruva" /></a> </p>
 
-- 🔭 I’m currently working on [30 Smart Contracts series](https://github.com/Dhruv-2003/30SmartContract_1)
+- 🔭 I’m currently working on [CricDAO](https://github.com/Dhruv-2003/CRICDAO) And [Caze](https://github.com/shouryam-kumar/hackathon-project)
 
-- 🌱 I’m currently learning **Ethers.js ,React.js**
-
-- 👯 I’m looking to collaborate on [CricDAO ,A DAO for cricket fans](https://github.com/Dhruv-2003/CRICDAO)
+- 🌱 I’m currently learning **Graph & Lens Protocol**
 
 - 📝 I regularly write articles on [My Hashnode Blog](https://dhruvagarwal.hashnode.dev/)
 
