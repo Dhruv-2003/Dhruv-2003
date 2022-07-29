@@ -3,6 +3,8 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch:
+  
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
