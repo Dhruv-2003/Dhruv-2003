@@ -69,6 +69,6 @@
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-2003&" alt="dhruv-2003" /></p>
 
-### Blogs posts
+### My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
