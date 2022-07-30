@@ -71,6 +71,7 @@
 
 ### My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything about NFT storage with a Demo App tutorial](https://dhruvagarwal.hashnode.dev/everything-about-nft-storage-with-a-demo-app-tutorial)
 - [All About Web3 Storage with Demo App tutorial](https://dhruvagarwal.hashnode.dev/all-about-web3-storage-with-demo-app-tutorial)
 - [30 Days - 30 Smart Contracts](https://dhruvagarwal.hashnode.dev/30-days-30-smart-contracts)
 <!-- BLOG-POST-LIST:END -->
