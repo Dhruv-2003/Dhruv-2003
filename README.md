@@ -91,15 +91,15 @@
 (https://devfolio.co/projects/credfi-0dd3)
 
 ### Hackthon wins
-- **Music3** - *HackFS by ETHGlobal* Built just under 24 hours from ideation to deployment.
-🏊‍♂️ NFTPort — Pool Prize
-🥇 Valist — Best Use
-🗃 IPFS/Filecoin — Best use of web3.storage or nft.storage
-🥉 Polygon — Best Use
+- **Music3** - *HackFS by ETHGlobal* Built just under 24 hours from ideation to deployment ||
+<a>🏊‍♂️ NFTPort — Pool Prize</a>
+<a>🥇 Valist — Best Use</a>
+<a>🗃 IPFS/Filecoin — Best use of web3.storage or nft.storage </a>
+<a>🥉 Polygon — Best Use</a>
 (https://ethglobal.com/showcase/music3-zai5y)
 
-- **DEFI FOR XDC** - *XDC Summer Dapp hackathon* - Set of contracts for DEFI on XDC network
-DEFI - First Place
+- **DEFI FOR XDC** - *XDC Summer Dapp hackathon* - Set of contracts for DEFI on XDC network ||
+<a>DEFI - First Place</a>
 
 ### My latest Blog posts 📝📝
 <!-- BLOG-POST-LIST:START -->
