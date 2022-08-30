@@ -8,7 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/0xdhruva" target="blank"><img src="https://img.shields.io/twitter/follow/0xdhruva?logo=twitter&style=for-the-badge" alt="0xdhruva" /></a> </p>
 
-- 🔭 I’m currently working on [Caze](https://github.com/shouryam-kumar/hackathon-project) and [Music3](https://github.com/kushagrasarathe/hackfs-project/tree/main/music3). Something big comming soon 🔜🔜
+- 🔭 I’m currently working on [Caze](https://github.com/shouryam-kumar/hackathon-project) and [Music3](https://github.com/kushagrasarathe/hackfs-project/tree/main/music3).
+- Something big coming soon , Hint - An Ecosystem 😉
 
 - 🌱 I’m currently learning **Graph & Lens Protocol**
 
