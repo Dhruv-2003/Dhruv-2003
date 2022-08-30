@@ -101,6 +101,8 @@
 - **DEFI FOR XDC** - *XDC Summer Dapp hackathon* - Set of contracts for DEFI on XDC network ||
 <a>DEFI - First Place</a>
 
+- **CredFI** - *ETHernals by ETHIndia* - A NFT lending platform || <a> NFT API Used by Alchemy</a>
+
 ### My latest Blog posts 📝📝
 <!-- BLOG-POST-LIST:START -->
 - [Everything about NFT storage with a Demo App tutorial](https://dhruvagarwal.hashnode.dev/everything-about-nft-storage-with-a-demo-app-tutorial)
