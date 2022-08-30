@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xdhruva" target="blank"><img src="https://img.shields.io/twitter/follow/0xdhruva?logo=twitter&style=for-the-badge" alt="0xdhruva" /></a> </p>
 
-- 🔭 I’m currently working on [CricDAO](https://github.com/Dhruv-2003/CRICDAO) And [Caze](https://github.com/shouryam-kumar/hackathon-project)
+- 🔭 I’m currently working on [Caze](https://github.com/shouryam-kumar/hackathon-project) and [Music3](https://github.com/kushagrasarathe/hackfs-project/tree/main/music3). Something big comming soon 🔜🔜
 
 - 🌱 I’m currently learning **Graph & Lens Protocol**
 
@@ -68,6 +68,28 @@
 
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-2003&" alt="dhruv-2003" /></p>
+
+### My Recent Projects
+
+--> Music3 - Store songs on decentralized storage like IPFS , Mint NFT as proof on Polygon Main net . Built just under 24 hours from ideation to deployment , Won 4 bounties from IPFS , Polygon , Valist and NFTport respectively.
+(https://music3.vercel.app/)
+(https://ethglobal.com/showcase/music3-zai5y)
+
+-> Caze - A Web3 based Subscription platform for Creators to get support from their audience and enjoy exclusive contents and perks for the users according to the subscription plan selected.
+(https://cazeio.vercel.app/)
+(https://devpost.com/software/caze)
+
+- -> Scientia DAO , A DAO for all the scientists and researchers from all over the world to showcase and publish their researches on IPFS , Get Grants for the researches they want to work on and even collaborate with other Members on the same.
+(https://scientiadao.vercel.app/)
+(https://devpost.com/software/scientia-dao)
+
+- -> CricDAO , A one stop platform for all cricket fans , to trade Player NFT Cards and win rewards by match Prediction.
+(https://cricdao.vercel.app/)
+(Still under build)
+
+-> Credfi - A NFT lending platform to lock the liquidity out of the NFTs and get borrowings without selling the NFT . My 1st hackathon project that led my way into web3 development and I learned a lot from this . ETHernals hackathon winner , Bounty by Alchemy.
+(https://devfolio.co/projects/credfi-0dd3)
+
 
 ### My latest Blog posts
 <!-- BLOG-POST-LIST:START -->
