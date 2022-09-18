@@ -92,6 +92,7 @@
 (https://devfolio.co/projects/credfi-0dd3)
 
 ### Hackthon wins
+
 - [**Music3**](https://ethglobal.com/showcase/music3-zai5y) - *HackFS by ETHGlobal* Built just under 24 hours from ideation to deployment ||
 <a>🏊‍♂️ NFTPort — Pool Prize</a>
 <a>🥇 Valist — Best Use</a>
@@ -101,6 +102,12 @@
 
 - [**DEFI FOR XDC**](https://devpost.com/software/defi-for-xdc) - *XDC Summer Dapp hackathon* - Set of contracts for DEFI on XDC network ||
 <a>DEFI - First Place</a>
+
+- [**Caze**](https://devpost.com/software/caze) - *Polygon BUIDL IT 2022* - Subscription based platform for creators ||
+<a>IPFS - Pool prize </a>
+
+- [**Scientia DAO**](https://devpost.com/software/scientia-dao) - *Polygon BUIDL IT 2022 * - DAO for Scientists and researchers ||
+<a>IPFS - Pool prize </a
 
 - [**CredFI**](https://devfolio.co/projects/credfi-0dd3) - *ETHernals by ETHIndia* - A NFT lending platform || <a> NFT API Used by Alchemy</a>
 
