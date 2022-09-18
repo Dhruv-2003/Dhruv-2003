@@ -107,7 +107,7 @@
 <a>IPFS - Pool prize </a>
 
 - [**Scientia DAO**](https://devpost.com/software/scientia-dao) - *Polygon BUIDL IT 2022 * - DAO for Scientists and researchers ||
-<a>IPFS - Pool prize </a
+<a>IPFS - Pool prize </a>
 
 - [**CredFI**](https://devfolio.co/projects/credfi-0dd3) - *ETHernals by ETHIndia* - A NFT lending platform || <a> NFT API Used by Alchemy</a>
 
