@@ -72,6 +72,10 @@
 
 ### My Recent Projects 
 
+- ** Swift Fi ** - A Payment infrastructure on-chain to simplify the web3 Payment experience and much more seamless and easy. Enabling merchants to accept crypto from users with Payment SDKs and Links
+https://devpost.com/software/swiftfi
+https://swiftfi-beta.vercel.app
+
 - **Music3** - Store songs on decentralized storage like IPFS , Mint NFT as proof on Polygon Main net . Built just under 24 hours from ideation to deployment , Won 4 bounties from IPFS , Polygon , Valist and NFTport respectively.
 (https://music3.vercel.app/)
 (https://ethglobal.com/showcase/music3-zai5y)
@@ -88,8 +92,11 @@
 (https://cricdao.vercel.app/)
 (Still under build)
 
+- **Artist 3**(https://github.com/Dhruv-2003/artist3) - A Platform for artists to mint artwork as NFTs as fractionals or whole and even sell it on marketplace https://artist3.vercel.app/ 
+
 - **Credfi** - A NFT lending platform to lock the liquidity out of the NFTs and get borrowings without selling the NFT . My 1st hackathon project that led my way into web3 development and I learned a lot from this . ETHernals hackathon winner , Bounty by Alchemy.
 (https://devfolio.co/projects/credfi-0dd3)
+
 
 ### Hackthon wins
 
@@ -99,6 +106,17 @@
 <a>🗃 IPFS/Filecoin — Best use of web3.storage or nft.storage </a>
 <a>🥉 Polygon — Best Use</a>
 (https://ethglobal.com/showcase/music3-zai5y)
+
+- [**0xfi**](https://ethglobal.com/showcase/0xfi-xvn2h) - * ETHOnline * || Facilitate payments by creating payment links , requests and payouts in crypto
+<a>Valist - Best use </a>
+<a>Superfluid Pool prize</a>
+<a>NFT Port pool prize</a>
+
+- [**Artist 3**](https://github.com/Dhruv-2003/artist3) - *MoralisxFilecoin 1,2,3 Hackathon & HTM 3.0 * || A Platform for artists to create Fractional NFT art and earn rewards 
+<a>Polygon -  Web3 UX</a>
+<a>Valist — Pool prize</a>
+<a>LightHouse Storage</a>
+<a>Thirdweb</a>
 
 - [**DEFI FOR XDC**](https://devpost.com/software/defi-for-xdc) - *XDC Summer Dapp hackathon* - Set of contracts for DEFI on XDC network ||
 <a>DEFI - First Place</a>
