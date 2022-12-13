@@ -72,7 +72,7 @@
 
 ### My Recent Projects 
 
-- ** Swift Fi ** - A Payment infrastructure on-chain to simplify the web3 Payment experience and much more seamless and easy. Enabling merchants to accept crypto from users with Payment SDKs and Links
+- **Swift Fi** - A Payment infrastructure on-chain to simplify the web3 Payment experience and much more seamless and easy. Enabling merchants to accept crypto from users with Payment SDKs and Links
 https://devpost.com/software/swiftfi
 https://swiftfi-beta.vercel.app
 
