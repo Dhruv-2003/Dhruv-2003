@@ -74,7 +74,7 @@
 
 - **Swift Fi** - A Payment infrastructure on-chain to simplify the web3 Payment experience and much more seamless and easy. Enabling merchants to accept crypto from users with Payment SDKs and Links
 https://devpost.com/software/swiftfi
-https://swiftfi-beta.vercel.app
+(https://swiftfi-beta.vercel.app)
 
 - **Music3** - Store songs on decentralized storage like IPFS , Mint NFT as proof on Polygon Main net . Built just under 24 hours from ideation to deployment , Won 4 bounties from IPFS , Polygon , Valist and NFTport respectively.
 (https://music3.vercel.app/)
