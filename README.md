@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A Web3 & Backend Develper from India exploring DEFI & Account Abstraction </h3>
 
-<img align="right" alt="Blockchain" width="600" src="https://tenor.com/brXT6.gif">
+<img align="right" alt="Blockchain" width="600" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-2003&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-2003" /> </p>
 
