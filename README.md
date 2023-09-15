@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
 <h3 align="center">A Web3 & Backend Develper from India exploring DEFI & Account Abstraction </h3>
 
-<img align="right" alt="Blockchain" width="600" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-2003&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-2003" /> </p>
 
-
-
 <p align="left"> <a href="https://twitter.com/0xdhruva" target="blank"><img src="https://img.shields.io/twitter/follow/0xdhruva?logo=twitter&style=for-the-badge" alt="0xdhruva" /></a> </p>
+
+<img align="right" alt="Blockchain" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 Working on [Smood](https://github.com/0xsmood/) and [Music3](https://github.com/music-3).
 
 - 👨‍💻 Open to new Opportunities in **Web3** & **Smart Contract** developement
-
+  
 - 🎓 Studying data Science & programming for Indian Insitute of Technology (IIT) Madras
 
 - 🌱 Learning **Rust** to build better systems and **Smart Contract Security** for a safe Defi future
