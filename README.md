@@ -73,42 +73,44 @@
 
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-2003&" alt="dhruv-2003" /></p>
 
-### My Recent Projects 
+### My Recent Projects 🛠️
 
-- **Swift Fi** - A Payment infrastructure on-chain to simplify the web3 Payment experience and much more seamless and easy. Enabling merchants to accept crypto from users with Payment SDKs and Links
-https://devpost.com/software/swiftfi
-(https://swiftfi-beta.vercel.app)
+- **Ark** - Tradable Decentralised Gaming IDs platform to hold game assets & Trade DIDs or Characters using ERC6551 , with MPC Based Social Login
+Winner - 🔥 Lit — Best use of Lit Actions and PKP
+[ETHGlobal hackFS Project](https://ethglobal.com/showcase/undefined-9nnp2)
 
-- **Music3** - Store songs on decentralized storage like IPFS , Mint NFT as proof on Polygon Main net . Built just under 24 hours from ideation to deployment , Won 4 bounties from IPFS , Polygon , Valist and NFTport respectively.
+- **Wasp.** - A Fully Automated Asset Investment Strategy Platform powered by Chainlink . Use Strategies like Concentrated Liquidity Manager , Dollar Cost averaging & Range Orders
+[Chainlink Spring Project](https://devpost.com/software/wasp)
+[Live link](https://waspinvest.vercel.app/)
+
+- **Token-gating-sdk** ,A Simple and Modern SDK For Implementing Token - Gating in your webpage , in just few steps. Built with *Alchemy* & *Replit* [Package Link](https://www.smartcontracts.fyi/](https://www.npmjs.com/package/token-gating-sdk)
+
+- **Smood & Switfi** - A Payment infrastructure on-chain to simplify the web3 Payment experience and much more seamless and easy. Payment wallet that even your grandma can use , built with Safe and Account Abstraction. 
+🅰️🅰️ Safe — Best Web2 Experience with AA
+[ETH tokyo Project](https://ethglobal.com/showcase/smoood-wallet-4j4b9)
+[Chainlink Fall Switfi Project](https://devpost.com/software/swiftfi)
+
+- **Music3** - Store songs on decentralized storage like IPFS , Mint NFT as proof on Polygon Main net . Built just under 24 hours from ideation to deployment , Won 4 bounties from IPFS , Polygon , Valist and NFTport respectively. Under further developement to become a Music Graph
 (https://music3.vercel.app/)
 (https://ethglobal.com/showcase/music3-zai5y)
 
-- **Caze** - A Web3 based Subscription platform for Creators to get support from their audience and enjoy exclusive contents and perks for the users according to the subscription plan selected.
-(https://cazeio.vercel.app/)
-(https://devpost.com/software/caze)
-
-- **Scientia DAO** , A DAO for all the scientists and researchers from all over the world to showcase and publish their researches on IPFS , Get Grants for the researches they want to work on and even collaborate with other Members on the same.
-(https://scientiadao.vercel.app/)
-(https://devpost.com/software/scientia-dao)
-
-- **CricDAO** , A one stop platform for all cricket fans , to trade Player NFT Cards and win rewards by match Prediction.
-(https://cricdao.vercel.app/)
-(Still under build)
-
-- **Artist 3**(https://github.com/Dhruv-2003/artist3) - A Platform for artists to mint artwork as NFTs as fractionals or whole and even sell it on marketplace https://artist3.vercel.app/ 
-
-- **Credfi** - A NFT lending platform to lock the liquidity out of the NFTs and get borrowings without selling the NFT . My 1st hackathon project that led my way into web3 development and I learned a lot from this . ETHernals hackathon winner , Bounty by Alchemy.
-(https://devfolio.co/projects/credfi-0dd3)
+- **SmartContracts.fyi** ,A one stop solution to understand and make smart contracts better. Get better results within fraction of the time , A tool for everyone with use of AI [LiveLink](https://www.smartcontracts.fyi/)
 
 
 ### Hackthon wins
+ 
+- [**FVM explore**](https://ethglobal.com/showcase/fvm-explore-zk0dg) - *FVM Spacewarp by ETHGlobal* - A Smart Contract Explorer to improve developer expereince on FVM Chain
+trophy
+<a>🏆 FVM Space Warp Finalist</a>
+<a>🛠 Filecoin & IPFS — 🥇 Discovery Tools</a>
+(https://fvm-explore.vercel.app/)
 
-- [**Music3**](https://ethglobal.com/showcase/music3-zai5y) - *HackFS by ETHGlobal* Built just under 24 hours from ideation to deployment ||
+- [**Music3**](https://ethglobal.com/showcase/music3-zai5y) - *HackFS by ETHGlobal* Built just under 24 hours from ideation to deployment  + Micro Grant from IPFS.
 <a>🏊‍♂️ NFTPort — Pool Prize</a>
 <a>🥇 Valist — Best Use</a>
 <a>🗃 IPFS/Filecoin — Best use of web3.storage or nft.storage </a>
 <a>🥉 Polygon — Best Use</a>
-(https://ethglobal.com/showcase/music3-zai5y)
+(https://music3.vercel.app/)
 
 - [**0xfi**](https://ethglobal.com/showcase/0xfi-xvn2h) - * ETHOnline * || Facilitate payments by creating payment links , requests and payouts in crypto
 <a>Valist - Best use </a>
@@ -124,13 +126,8 @@ https://devpost.com/software/swiftfi
 - [**DEFI FOR XDC**](https://devpost.com/software/defi-for-xdc) - *XDC Summer Dapp hackathon* - Set of contracts for DEFI on XDC network ||
 <a>DEFI - First Place</a>
 
-- [**Caze**](https://devpost.com/software/caze) - *Polygon BUIDL IT 2022* - Subscription based platform for creators ||
+- [**Caze**](https://devpost.com/software/caze) || [**Scientia DAO**](https://devpost.com/software/scientia-dao)  - *Polygon BUIDL IT 2022* - Subscription based platform for creators ||
 <a>IPFS - Pool prize </a>
-
-- [**Scientia DAO**](https://devpost.com/software/scientia-dao) - *Polygon BUIDL IT 2022 * - DAO for Scientists and researchers ||
-<a>IPFS - Pool prize </a>
-
-- [**CredFI**](https://devfolio.co/projects/credfi-0dd3) - *ETHernals by ETHIndia* - A NFT lending platform || <a> NFT API Used by Alchemy</a>
 
 ### My latest Blog posts 📝📝
 <!-- BLOG-POST-LIST:START -->
