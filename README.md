@@ -9,17 +9,20 @@
 
 <p align="left"> <a href="https://twitter.com/0xdhruva" target="blank"><img src="https://img.shields.io/twitter/follow/0xdhruva?logo=twitter&style=for-the-badge" alt="0xdhruva" /></a> </p>
 
-- 🔭 I’m currently working on [Smood](https://github.com/0xsmood/) and [Music3](https://github.com/music-3).
+- 🔭 Working on [Smood](https://github.com/0xsmood/) and [Music3](https://github.com/music-3).
 
-- 🌱 I’m currently learning **Rust** to build better systems
+- 👨‍💻 Open to new Opportunities in **Web3** & **Smart Contract** developement
 
-- 📝 I regularly write articles on [My Hashnode Blog](https://dhruvagarwal.hashnode.dev/)
+- 🎓 Studying data Science & programming for Indian Insitute of Technology (IIT) Madras
 
+- 🌱 Learning **Rust** to build better systems and **Smart Contract Security** for a safe Defi future
+  
 - 💬 Ask me about **Web3 ,Solidity , Blockchain & Backend**
-
+  
 - 📫 How to reach me **contact.dhruvagarwal2017@gmail.com**
-
+  
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1rsWn8RJ2Lz2176h2TpKeS4gf7ICpOBW0/view)
+  
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
