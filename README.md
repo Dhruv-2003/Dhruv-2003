@@ -83,7 +83,7 @@ Winner - 🔥 Lit — Best use of Lit Actions and PKP
 [Chainlink Spring Project](https://devpost.com/software/wasp)
 [Live link](https://waspinvest.vercel.app/)
 
-- **Token-gating-sdk** ,A Simple and Modern SDK For Implementing Token - Gating in your webpage , in just few steps. Built with *Alchemy* & *Replit* [Package Link](https://www.smartcontracts.fyi/](https://www.npmjs.com/package/token-gating-sdk)
+- **Token-gating-sdk** ,A Simple and Modern SDK For Implementing Token - Gating in your webpage , in just few steps. Built with *Alchemy* & *Replit* [Package Link](https://www.npmjs.com/package/token-gating-sdk)
 
 - **Smood & Switfi** - A Payment infrastructure on-chain to simplify the web3 Payment experience and much more seamless and easy. Payment wallet that even your grandma can use , built with Safe and Account Abstraction. 
 🅰️🅰️ Safe — Best Web2 Experience with AA
