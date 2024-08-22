@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dhruv</h1>
-<h3 align="center">A Web3 & Backend Develper from India exploring DEFI & Account Abstraction </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-2003&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-2003" /> </p>
 
 <p align="left"> <a href="https://twitter.com/0xdhruva" target="blank"><img src="https://img.shields.io/twitter/follow/0xdhruva?logo=twitter&style=for-the-badge" alt="0xdhruva" /></a> </p>
 
+<!--
 <img align="right" alt="Blockchain" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+-->
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-2003&" alt="dhruv-2003" />
 
-- 🔭 Working on [Smood](https://github.com/0xsmood/) and [Music3](https://github.com/music-3).
-
-- 👨‍💻 Open to new Opportunities in **Web3** & **Smart Contract** developement
+- 🔭 Working in the Modular and Infra space
   
 - 🎓 Studying data Science & programming for Indian Insitute of Technology (IIT) Madras
 
-- 🌱 Learning **Rust** to build better systems and **Smart Contract Security** for a safe Defi future
+- 🌱 Learning **Rust** to build better systems
   
 - 💬 Ask me about **Web3 ,Solidity , Blockchain & Backend**
   
@@ -22,14 +20,7 @@
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1rsWn8RJ2Lz2176h2TpKeS4gf7ICpOBW0/view)
   
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/0xdhruva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xdhruva" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruvagarwalofficial/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruvagarwalofficial/" height="30" width="40" /></a>
-<a href="https://hashnode.com/dhruvagarwal.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dhruvagarwal.hashnode.dev" height="30" width="40" /></a>
-<a href="/https://dhruvagarwal.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dhruvagarwal.hashnode.dev/" height="30" width="40" /></a>
-</p>
-
+<!--
 <h3 align="center">Languages</h3>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></a> 
@@ -37,8 +28,9 @@
 <a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="solidity" width="30" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> </p>
-
-
+-->
+  
+<!--
 <h3 align="center">FrameWorks & Databases</h3>
 <p align="center">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
@@ -46,7 +38,9 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
+-->
 
+<!--
 <h3 align="center">Tools & IDE </h3>
 <p align="center"><a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="50" height="40"/> </a>  <a href="https://trufflesuite.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/T/truffle-logo-2DC7EBABF2-seeklogo.com.png" alt="truffle" width="40" height="40"/> </a><a href="https://trufflesuite.com/ganache/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/ganache-logo-1EB72084A8-seeklogo.com.png" alt="ganache" width="40" height="40"/> </a>
 <a href="https://remix.ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/420/1*3jj5tQildSIyhl-RO6RLlA.png" alt="remix" width="40" height="40"/> </a> <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/1200px-MetaMask_Fox.svg.png" alt="metmask" width="40" height="40"/> </a>
@@ -54,6 +48,8 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
+-->
+
 
 <!-- 
 <h3 align="center">Blockchains & SDKs </h3>
@@ -69,15 +65,18 @@
 </p>
 -->
 
-<p  align="center"  ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-2003&show_icons=true&locale=en&layout=compact" alt="dhruv-2003" /></p>
+<!--
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-2003&show_icons=true&locale=en&layout=compact" alt="dhruv-2003" /></p>
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv-2003&show_icons=true&locale=en" alt="dhruv-2003" /></p>
+<p align="center" class="margin: 5px;">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dhruv-2003&show_icons=true&locale=en" alt="dhruv-2003" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-2003&" alt="dhruv-2003" /></p>
+-->
 
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-2003&" alt="dhruv-2003" /></p>
+###
 
+
+<!--
 ### My Recent Projects 🛠️
-
 - **Ark** - Tradable Decentralised Gaming IDs platform to hold game assets & Trade DIDs or Characters using ERC6551 , with MPC Based Social Login
 Winner - 🔥 Lit — Best use of Lit Actions and PKP
 [ETHGlobal hackFS Project](https://ethglobal.com/showcase/undefined-9nnp2)
@@ -98,8 +97,9 @@ Winner - 🔥 Lit — Best use of Lit Actions and PKP
 (https://ethglobal.com/showcase/music3-zai5y)
 
 - **SmartContracts.fyi** ,A one stop solution to understand and make smart contracts better. Get better results within fraction of the time , A tool for everyone with use of AI [LiveLink](https://www.smartcontracts.fyi/)
+-->
 
-
+<!--
 ### Hackthon wins
  
 - [**FVM explore**](https://ethglobal.com/showcase/fvm-explore-zk0dg) - *FVM Spacewarp by ETHGlobal* - A Smart Contract Explorer to improve developer expereince on FVM Chain
@@ -131,11 +131,16 @@ trophy
 
 - [**Caze**](https://devpost.com/software/caze) || [**Scientia DAO**](https://devpost.com/software/scientia-dao)  - *Polygon BUIDL IT 2022* - Subscription based platform for creators ||
 <a>IPFS - Pool prize </a>
+-->
 
+<!--
 ### My latest Blog posts 📝📝
+-->
 <!-- BLOG-POST-LIST:START -->
+<!--
 - [Guide to Create Your first Token on Stacks Blockchain](https://dhruvagarwal.hashnode.dev/guide-to-create-your-first-token-on-stacks-blockchain)
 - [Everything about NFT storage with a Demo App tutorial](https://dhruvagarwal.hashnode.dev/everything-about-nft-storage-with-a-demo-app-tutorial)
 - [All About Web3 Storage with Demo App tutorial](https://dhruvagarwal.hashnode.dev/all-about-web3-storage-with-demo-app-tutorial)
 - [30 Days - 30 Smart Contracts](https://dhruvagarwal.hashnode.dev/30-days-30-smart-contracts)
+-->
 <!-- BLOG-POST-LIST:END -->
