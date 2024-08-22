@@ -17,7 +17,7 @@
   
 - 📫 How to reach me **contact.dhruvagarwal2017@gmail.com**
   
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1rsWn8RJ2Lz2176h2TpKeS4gf7ICpOBW0/view)
+- 📄 Know about my experiences [My portfolio](https://bento.me/0xdhruv)
   
 
 <!--
