@@ -9,7 +9,7 @@
 
 - 🔭 Working in the Modular and Infra space
   
-- 🎓 Studying Data Science & programming from Indian Insitute of Technology (IIT) Madras
+- 🎓 Data Science & programming from Indian Insitute of Technology (IIT) Madras
 
 - 🌱 Learning **Rust** to build better systems
   
