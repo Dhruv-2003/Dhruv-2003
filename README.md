@@ -7,17 +7,17 @@
 -->
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-2003&" alt="dhruv-2003" />
 
-- 🔭 Working in the Modular and Infra space
+- 🔭 Working & Researching in the web3 modular space
   
 - 🎓 Data Science & programming from Indian Insitute of Technology (IIT) Madras
 
-- 🌱 Learning **Rust** to build better systems
+- 🌱 Experimenting with **Rust** to build better systems
   
 - 💬 Ask me about **Web3 ,Solidity , Blockchain & Backend**
   
 - 📫 How to reach me **contact.dhruvagarwal2017@gmail.com**
   
-- 📄 Know about my experiences [My portfolio](https://bento.me/0xdhruv)
+- 📄 Know about my experiences [My portfolio](https://0xdhruv.eth.limo/)
   
 
 <!--
