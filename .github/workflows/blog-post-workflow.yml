@@ -1,18 +1,2 @@
 name: Latest blog post workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch:
-  
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://DhruvAgarwal.hashnode.dev/rss.xml"
+
