@@ -141,7 +141,7 @@ trophy
 
 ### My latest Blog posts 📝📝
 
-- https://mirror.xyz/stackrlabs.eth/4kLzcBdvWnvECxOnaGQ8prAqUZEzj4BoDoXqSSXiV6w
+- [Micro-Rollups for Keystores](https://mirror.xyz/stackrlabs.eth/4kLzcBdvWnvECxOnaGQ8prAqUZEzj4BoDoXqSSXiV6w0
 <!-- BLOG-POST-LIST:START -->
 <!--
 - [Guide to Create Your first Token on Stacks Blockchain](https://dhruvagarwal.hashnode.dev/guide-to-create-your-first-token-on-stacks-blockchain)
