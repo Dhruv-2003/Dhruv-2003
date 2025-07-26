@@ -140,6 +140,8 @@ trophy
 -->
 
 ### My latest Blog posts 📝📝
+
+- https://mirror.xyz/stackrlabs.eth/4kLzcBdvWnvECxOnaGQ8prAqUZEzj4BoDoXqSSXiV6w
 <!-- BLOG-POST-LIST:START -->
 <!--
 - [Guide to Create Your first Token on Stacks Blockchain](https://dhruvagarwal.hashnode.dev/guide-to-create-your-first-token-on-stacks-blockchain)
