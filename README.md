@@ -7,7 +7,7 @@
 -->
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-2003&" alt="dhruv-2003" />
 
-- 🔭 Working & Researching in the web3 modular space
+- 🔭 Working & Researching in the web3 space
   
 - 🎓 Data Science & programming from Indian Insitute of Technology (IIT) Madras
 
@@ -17,7 +17,7 @@
   
 - 📫 How to reach me **contact.dhruvagarwal2017@gmail.com**
   
-- 📄 Know about my experiences [My portfolio](https://0xdhruv.eth.limo/)
+- 📄 Know about my experiences [My portfolio](https://0xdhruv.me/)
   
 
 <!--
