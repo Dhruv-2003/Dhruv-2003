@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
+<img width="1360" height="896" alt="image" src="https://github.com/user-attachments/assets/0e2ef5bd-787c-44f1-b492-d206121e6059" /><h1 align="center">Hi 👋, I'm Dhruv</h1>
 
 <p align="left"> <a href="https://twitter.com/0xdhruva" target="blank"><img src="https://img.shields.io/twitter/follow/0xdhruva?logo=twitter&style=for-the-badge" alt="0xdhruva" /></a> </p>
 
@@ -141,6 +141,7 @@ trophy
 
 ### My latest Blog posts 📝📝
 
+- [wintermute alpha research challenge 2025 experience](https://0xdhruv.me/posts/wintermute-alpha-challenge-25/)
 - [Climate Resillient loans](https://0xdhruv.me/posts/climate-resillient-credit/)
 - [Micro-Rollups for Keystores](https://mirror.xyz/stackrlabs.eth/4kLzcBdvWnvECxOnaGQ8prAqUZEzj4BoDoXqSSXiV6w0)
 <!-- BLOG-POST-LIST:START -->
